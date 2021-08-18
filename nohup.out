@@ -1,0 +1,161 @@
+[W 2021-06-23 02:46:57.955 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[W 2021-06-23 02:46:57.958 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[W 2021-06-23 02:46:57.960 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[I 2021-06-23 02:46:57.961 ServerApp] jupyterlab | extension was successfully linked.
+[W 2021-06-23 02:46:57.963 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[W 2021-06-23 02:46:57.964 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-23 02:46:57.964 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-23 02:46:57.965 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[W 2021-06-23 02:46:57.967 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[I 2021-06-23 02:46:58.140 ServerApp] nb_conda | extension was found and enabled by nbclassic. Consider moving the extension to Jupyter Server's extension paths.
+[I 2021-06-23 02:46:58.141 ServerApp] nb_conda | extension was successfully linked.
+[I 2021-06-23 02:46:58.141 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-06-23 02:46:58.426 ServerApp] [nb_conda_kernels] enabled, 3 kernels found
+[W 2021-06-23 02:46:58.441 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2021-06-23 02:46:58.445 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-06-23 02:46:58.445 LabApp] JupyterLab extension loaded from /home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyterlab
+[I 2021-06-23 02:46:58.445 LabApp] JupyterLab application directory is /home/zyp/anaconda3/envs/simbert/share/jupyter/lab
+[I 2021-06-23 02:46:58.448 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-06-23 02:46:58.449 ServerApp] [nb_conda] enabled
+[I 2021-06-23 02:46:58.449 ServerApp] nb_conda | extension was successfully loaded.
+[I 2021-06-23 02:46:58.449 ServerApp] Serving notebooks from local directory: /home/zyp/pyprojects/simbert
+[I 2021-06-23 02:46:58.449 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-06-23 02:46:58.449 ServerApp] http://ubuntu:8888/lab
+[I 2021-06-23 02:46:58.449 ServerApp]     http://127.0.0.1:8888/lab
+[I 2021-06-23 02:46:58.449 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2021-06-23 02:46:58.452 ServerApp] No web browser found: could not locate runnable browser.
+[W 2021-06-23 02:46:58.654 ServerApp] 404 GET /api/contents/pyprojects/simbert?content=1&1624441310895 (192.168.33.1): No such file or directory: pyprojects/simbert
+[W 2021-06-23 02:46:58.654 ServerApp] No such file or directory: pyprojects/simbert
+[W 2021-06-23 02:46:58.654 ServerApp] 404 GET /api/contents/pyprojects/simbert?content=1&1624441310895 (192.168.33.1) 1.37ms referer=http://192.168.33.129:8888/lab/tree/pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.145 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-06-23 02:47:30.214 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441342702 (192.168.33.1): No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:47:30.214 ServerApp] No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:47:30.215 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441342702 (192.168.33.1) 2.02ms referer=http://192.168.33.129:8888/lab/tree/pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.215 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.py?content=0&1624441342703 (192.168.33.1): No such file or directory: pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.216 ServerApp] No such file or directory: pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.216 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.py?content=0&1624441342703 (192.168.33.1) 2.91ms referer=http://192.168.33.129:8888/lab/tree/pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.217 ServerApp] 404 GET /api/contents/pyprojects/simbert/retrieval_test.py?content=0&1624441342703 (192.168.33.1): No such file or directory: pyprojects/simbert/retrieval_test.py
+[W 2021-06-23 02:47:30.217 ServerApp] No such file or directory: pyprojects/simbert/retrieval_test.py
+[W 2021-06-23 02:47:30.219 ServerApp] 404 GET /api/contents/pyprojects/simbert/retrieval_test.py?content=0&1624441342703 (192.168.33.1) 4.76ms referer=http://192.168.33.129:8888/lab/tree/pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.829 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.py?content=0&1624441343323 (192.168.33.1): No such file or directory: pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.830 ServerApp] No such file or directory: pyprojects/simbert/simbert.py
+[W 2021-06-23 02:47:30.830 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.py?content=0&1624441343323 (192.168.33.1) 1.00ms referer=http://192.168.33.129:8888/lab/tree/pyprojects/simbert/simbert.py
+[I 2021-06-23 02:47:37.477 ServerApp] Kernel started: 2bdcdd64-794b-4a7a-ab95-91e9ba75a979
+[W 2021-06-23 02:47:38.572 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441351064 (192.168.33.1): No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:47:38.572 ServerApp] No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:47:38.573 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441351064 (192.168.33.1) 1.03ms referer=http://192.168.33.129:8888/lab/workspaces/auto-r
+[I 2021-06-23 02:47:38.590 ServerApp] Uploading file to /pyprojects/simbert/simbert.ipynb
+[E 2021-06-23 02:47:38.592 ServerApp] Error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+    Traceback (most recent call last):
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/filemanager.py", line 428, in save
+        self._save_notebook(os_path, nb)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 290, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 210, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 112, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[W 2021-06-23 02:47:38.840 ServerApp] 500 PUT /api/contents/pyprojects/simbert/simbert.ipynb?1624441351082 (192.168.33.1): Unexpected error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[W 2021-06-23 02:47:38.840 ServerApp] Unexpected error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[E 2021-06-23 02:47:38.841 ServerApp] {
+      "Host": "192.168.33.129:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "1018",
+      "X-Xsrftoken": "2|5d127579|c7676e7dbdbd9a80bcdc387e78d9cfd4|1623050500",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "*/*",
+      "Origin": "http://192.168.33.129:8888",
+      "Referer": "http://192.168.33.129:8888/lab/workspaces/auto-r",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en,zh-CN;q=0.9,zh;q=0.8,zh-TW;q=0.7",
+      "Cookie": "_xsrf=2|5d127579|c7676e7dbdbd9a80bcdc387e78d9cfd4|1623050500; OUTFOX_SEARCH_USER_ID_NCOO=836166609.5058985; username-192-168-33-129-8888=\"2|1:0|10:1624414343|28:username-192-168-33-129-8888|44:NjE5OWViNTNhZDA4NGYzZmEyMjM1NjUxMmIyZDcxZjc=|781c4d56915290fa75b9717c1e941291bf5ad574b68df0fb6c2b776d4b7037d8\"; ___rl__test__cookies=1624440027767"
+    }
+[E 2021-06-23 02:47:38.841 ServerApp] 500 PUT /api/contents/pyprojects/simbert/simbert.ipynb?1624441351082 (192.168.33.1) 251.66ms referer=http://192.168.33.129:8888/lab/workspaces/auto-r
+[I 2021-06-23 02:49:26.923 ServerApp] Kernel restarted: 2bdcdd64-794b-4a7a-ab95-91e9ba75a979
+[I 2021-06-23 02:49:37.330 ServerApp] Saving file at /simbert.ipynb
+[W 2021-06-23 02:49:39.574 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441472065 (192.168.33.1): No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:49:39.574 ServerApp] No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:49:39.575 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441472065 (192.168.33.1) 0.94ms referer=http://192.168.33.129:8888/lab/workspaces/auto-r
+[I 2021-06-23 02:49:39.581 ServerApp] Uploading file to /pyprojects/simbert/simbert.ipynb
+[E 2021-06-23 02:49:39.584 ServerApp] Error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+    Traceback (most recent call last):
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/filemanager.py", line 428, in save
+        self._save_notebook(os_path, nb)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 290, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 210, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 112, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[W 2021-06-23 02:49:39.584 ServerApp] 500 PUT /api/contents/pyprojects/simbert/simbert.ipynb?1624441472072 (192.168.33.1): Unexpected error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[W 2021-06-23 02:49:39.584 ServerApp] Unexpected error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[E 2021-06-23 02:49:39.584 ServerApp] {
+      "Host": "192.168.33.129:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "1018",
+      "X-Xsrftoken": "2|5d127579|c7676e7dbdbd9a80bcdc387e78d9cfd4|1623050500",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "*/*",
+      "Origin": "http://192.168.33.129:8888",
+      "Referer": "http://192.168.33.129:8888/lab/workspaces/auto-r",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en,zh-CN;q=0.9,zh;q=0.8,zh-TW;q=0.7",
+      "Cookie": "_xsrf=2|5d127579|c7676e7dbdbd9a80bcdc387e78d9cfd4|1623050500; OUTFOX_SEARCH_USER_ID_NCOO=836166609.5058985; username-192-168-33-129-8888=\"2|1:0|10:1624414343|28:username-192-168-33-129-8888|44:NjE5OWViNTNhZDA4NGYzZmEyMjM1NjUxMmIyZDcxZjc=|781c4d56915290fa75b9717c1e941291bf5ad574b68df0fb6c2b776d4b7037d8\"; ___rl__test__cookies=1624440027767"
+    }
+[E 2021-06-23 02:49:39.584 ServerApp] 500 PUT /api/contents/pyprojects/simbert/simbert.ipynb?1624441472072 (192.168.33.1) 3.68ms referer=http://192.168.33.129:8888/lab/workspaces/auto-r
+[I 2021-06-23 02:50:11.622 ServerApp] Saving file at /simbert.ipynb
+[I 2021-06-23 02:50:43.130 ServerApp] Kernel restarted: 2bdcdd64-794b-4a7a-ab95-91e9ba75a979
+[W 2021-06-23 02:50:59.466 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-06-23 02:51:40.576 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441593065 (192.168.33.1): No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:51:40.576 ServerApp] No such file or directory: pyprojects/simbert/simbert.ipynb
+[W 2021-06-23 02:51:40.576 ServerApp] 404 GET /api/contents/pyprojects/simbert/simbert.ipynb?content=0&1624441593065 (192.168.33.1) 1.04ms referer=http://192.168.33.129:8888/lab/workspaces/auto-r
+[I 2021-06-23 02:51:40.582 ServerApp] Uploading file to /pyprojects/simbert/simbert.ipynb
+[E 2021-06-23 02:51:40.584 ServerApp] Error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+    Traceback (most recent call last):
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/filemanager.py", line 428, in save
+        self._save_notebook(os_path, nb)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 290, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 210, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/home/zyp/anaconda3/envs/simbert/lib/python3.6/site-packages/jupyter_server/services/contents/fileio.py", line 112, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[W 2021-06-23 02:51:40.585 ServerApp] 500 PUT /api/contents/pyprojects/simbert/simbert.ipynb?1624441593071 (192.168.33.1): Unexpected error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[W 2021-06-23 02:51:40.585 ServerApp] Unexpected error while saving file: pyprojects/simbert/simbert.ipynb [Errno 2] No such file or directory: '/home/zyp/pyprojects/simbert/pyprojects/simbert/simbert.ipynb'
+[E 2021-06-23 02:51:40.585 ServerApp] {
+      "Host": "192.168.33.129:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "1018",
+      "X-Xsrftoken": "2|5d127579|c7676e7dbdbd9a80bcdc387e78d9cfd4|1623050500",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "*/*",
+      "Origin": "http://192.168.33.129:8888",
+      "Referer": "http://192.168.33.129:8888/lab/workspaces/auto-r",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en,zh-CN;q=0.9,zh;q=0.8,zh-TW;q=0.7",
+      "Cookie": "_xsrf=2|5d127579|c7676e7dbdbd9a80bcdc387e78d9cfd4|1623050500; OUTFOX_SEARCH_USER_ID_NCOO=836166609.5058985; username-192-168-33-129-8888=\"2|1:0|10:1624414343|28:username-192-168-33-129-8888|44:NjE5OWViNTNhZDA4NGYzZmEyMjM1NjUxMmIyZDcxZjc=|781c4d56915290fa75b9717c1e941291bf5ad574b68df0fb6c2b776d4b7037d8\"; ___rl__test__cookies=1624440027767"
+    }
+[E 2021-06-23 02:51:40.585 ServerApp] 500 PUT /api/contents/pyprojects/simbert/simbert.ipynb?1624441593071 (192.168.33.1) 4.00ms referer=http://192.168.33.129:8888/lab/workspaces/auto-r
+[W 2021-06-23 02:52:21.738 LabApp] Could not determine jupyterlab build status without nodejs
+[C 2021-06-23 02:53:25.188 ServerApp] received signal 15, stopping
+[I 2021-06-23 02:53:25.188 ServerApp] Shutting down 1 kernel
+[I 2021-06-23 02:53:25.189 ServerApp] Kernel shutdown: 2bdcdd64-794b-4a7a-ab95-91e9ba75a979
+[I 2021-06-23 02:53:25.391 ServerApp] Shutting down 0 terminals
